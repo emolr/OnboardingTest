@@ -1,9 +1,9 @@
 [
   {
-    courses: [
+    "courses": [
       {
-        title: 'Installing Git',
-        href: 'https://github.com/Stroemgren/OnboardingTest/blob/master/source/tools/installing-git.md'
+        "title": "Installing Git",
+        "href": "https://github.com/Stroemgren/OnboardingTest/blob/master/source/tools/installing-git.md"
       }
     ]
   }
