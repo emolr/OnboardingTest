@@ -1,8 +1,17 @@
 {
   "title": "Marketing",
   "tracks": [
-    "https://github.com/Stroemgren/OnboardingTest/blob/master/tracks/introduction.json",
-    "https://github.com/Stroemgren/OnboardingTest/blob/master/tracks/culture.json",
-    "https://github.com/Stroemgren/OnboardingTest/blob/master/tracks/communication.json"
+    {
+      "title": "Introduction",
+      "href": "https://github.com/Stroemgren/OnboardingTest/blob/master/tracks/introduction.json"
+    },
+    {
+      "title": "Culture",
+      "href": "https://github.com/Stroemgren/OnboardingTest/blob/master/tracks/culture.json"
+    },
+    {
+      "title": "Communication",
+      "href": "https://github.com/Stroemgren/OnboardingTest/blob/master/tracks/communication.json"
+    }
   ]
 }
