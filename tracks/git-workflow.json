@@ -1,0 +1,17 @@
+{
+  "title": "Git workflow",
+  "articles": [
+    {
+      "title": "Installing Git",
+      "href": "https://github.com/Stroemgren/OnboardingTest/blob/master/source/tools/installing-git.md"
+    },
+    {
+      "title": "Making pull-reqeusts",
+      "href": "https://github.com/Stroemgren/OnboardingTest/blob/master/source/code/making-pull-requests.md"
+    },
+    {
+      "title": "Code reviews",
+      "href": "https://github.com/Stroemgren/OnboardingTest/blob/master/source/code/code-reviews.md"
+    }
+  ]
+}
