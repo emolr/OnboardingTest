@@ -1,5 +1,6 @@
 [
   {
+    "title": "Week 1",
     "courses": [
       {
         "title": "Making coffee",
@@ -12,6 +13,7 @@
     ] 
   },
   {
+    "title": "Week 2",
     "courses": [
       {
         "title": "Entering our offices",
