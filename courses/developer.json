@@ -1,0 +1,9 @@
+{
+  "title": "Developer",
+  "tracks": [
+    "https://github.com/Stroemgren/OnboardingTest/blob/master/tracks/introduction.json",
+    "https://github.com/Stroemgren/OnboardingTest/blob/master/tracks/culture.json",
+    "https://github.com/Stroemgren/OnboardingTest/blob/master/tracks/communication.json",
+    "https://github.com/Stroemgren/OnboardingTest/blob/master/tracks/git-workflow.json"
+  ]
+}
