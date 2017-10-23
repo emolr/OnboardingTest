@@ -1,0 +1,13 @@
+{
+  "title": "Communication",
+  "articles": [
+    {
+      "title": "Mail signatures",
+      "href": "https://github.com/Stroemgren/OnboardingTest/blob/master/source/communication/mail-signatures.md"
+    },
+    {
+      "title": "Using Slack",
+      "href": "https://github.com/Stroemgren/OnboardingTest/blob/master/source/communication/using-slack.md"
+    }
+  ]
+} 
