@@ -1,5 +1,5 @@
 ---
-readingTime: 30
+timeToRead: 30
 image: https://upload.wikimedia.org/wikipedia/commons/f/f7/Bananas.svg
 ---
 
