@@ -1,3 +1,8 @@
+---
+timeToRead: 22
+cover: https://upload.wikimedia.org/wikipedia/commons/f/f7/Bananas.svg
+---
+
 # Kitchen
 
 Vivamus nec viverra purus, in ultrices mauris. Donec pellentesque ipsum non mattis aliquet. Etiam vestibulum libero est, rutrum fringilla velit pharetra non. Donec blandit malesuada sem, aliquet egestas nisl tristique et. Aenean nec scelerisque elit, vel lobortis diam. Suspendisse at placerat lorem, a pulvinar orci. Sed tincidunt nibh at convallis mattis. Suspendisse eleifend nisl vitae libero sodales egestas. Cras consequat odio non sem varius, quis suscipit mi malesuada.
