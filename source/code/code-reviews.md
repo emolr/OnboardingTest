@@ -1,6 +1,6 @@
 ---
 timeToRead: 30
-image: https://upload.wikimedia.org/wikipedia/commons/f/f7/Bananas.svg
+cover: https://upload.wikimedia.org/wikipedia/commons/f/f7/Bananas.svg
 ---
 
 # Code review
