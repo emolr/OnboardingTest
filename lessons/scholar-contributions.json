@@ -1,0 +1,13 @@
+{
+  "title": "Contributing to Unity Scholar",
+  "articles": [
+    {
+      "title": "Writing Style",
+      "href": "https://github.com/Stroemgren/OnboardingTest/blob/master/source/scholar/writing-style.md"
+    },
+    {
+      "title": "Making pull-requests",
+      "href": "https://github.com/Stroemgren/OnboardingTest/blob/master/source/scholar/pull-requests.md"
+    }
+  ]
+}
