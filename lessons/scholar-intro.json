@@ -1,0 +1,17 @@
+{
+  "title": "Intro to Unity Scholar",
+  "articles": [
+    {
+      "title": "Quick Introduction",
+      "href": "https://github.com/Stroemgren/OnboardingTest/blob/master/source/scholar/quick-introduction.md"
+    },
+    {
+      "title": "Smart features",
+      "href": "https://github.com/Stroemgren/OnboardingTest/blob/master/source/scholar/smart-features.md"
+    },
+    {
+      "title": "Sharing is Caring",
+      "href": "https://github.com/Stroemgren/OnboardingTest/blob/master/source/scholar/sharing-is-caring.md"
+    }
+  ]
+}
