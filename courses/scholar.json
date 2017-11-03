@@ -1,0 +1,14 @@
+{
+  "title": "Unity Scholar",
+  "description": "Learn how to use Unity Scholar, including all the smart-features - and learn how to contribute.",
+  "lessons": [
+    {
+      "title": "Intro to Unity Scholar",
+      "href": "https://github.com/Stroemgren/OnboardingTest/blob/master/lessons/scholar-intro.json"
+    },
+    {
+      "title": "Contributing to Unity Scholar",
+      "href": "https://github.com/Stroemgren/OnboardingTest/blob/master/lessons/scholar-contributions.json"
+    }
+  ]
+}
